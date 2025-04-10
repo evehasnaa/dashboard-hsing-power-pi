@@ -36,7 +36,7 @@ This dashboard provides interactive visuals for:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Saved%20Pictures/Screenshot%20(134).png)
+![Dashboard Screenshot](assets/dashboard_preview.png)
 
 > *Note: If you don’t see the image, make sure you clone the repo with the assets folder or view it on GitHub.*
 
